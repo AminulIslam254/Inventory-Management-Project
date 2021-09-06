@@ -2,7 +2,7 @@
 This is a Project to manage the inventory for Buying and Selling Products
 
 About this Project:-
-In typical stores there's usually thousands of customer comes every hour to buy products, so its becomes pretty dificult to get a hold of the data of every single products that had sold.This project will keep a track of the data of the selling products
+In typical stores there's usually thousands of customer comes every hour to buy products, so its becomes pretty dificult to get a hold of the data of every single products that had been sold.This project will keep a track of the data of the selling products.
 
 
 Features in this Project:-
