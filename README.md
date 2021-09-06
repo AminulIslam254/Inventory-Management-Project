@@ -6,6 +6,7 @@ In typical stores there's usually thousands of customer comes every hour to buy 
 
 
 Features in this Project:-
+
 1)This project generates bill for the customers for simplifying things
 
 2)You can check whether or not a product is vegan with this project
