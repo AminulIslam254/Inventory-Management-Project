@@ -11,8 +11,8 @@ Features in this Project:-
 
 2)You can check whether or not a product is vegan with this project
 
-3)You can add extra items on your already existed directory
+3)You can add extra items on your already existed list
 
-4)In case of a mistake on the typing the products name this program can notify the user immidietly without creating problems to the directory
+4)In case of a mistake on the typing the products name this program can notify the user immidietly without creating problems to the list
 
-5)For every product that has been sold it's automatically updates the curently existed directory with the new value
+5)For every product that has been sold it's automatically updates the curently existed list with the new value
