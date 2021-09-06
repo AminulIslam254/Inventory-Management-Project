@@ -7,7 +7,11 @@ In typical stores there's usually thousands of customer comes every hour to buy 
 
 Features in this Project:-
 1)This project generates bill for the customers for simplifying things
+
 2)You can check whether or not a product is vegan with this project
+
 3)You can add extra items on your already existed directory
+
 4)In case of a mistake on the typing the products name this program can notify the user immidietly without creating problems to the directory
+
 5)For every product that has been sold it's automatically updates the curently existed directory with the new value
