@@ -13,6 +13,6 @@ Features in this Project:-
 
 3)You can add extra items on your already existed list.
 
-4)In case of a mistake on the typing the products name this program can notify the user immidietly without creating problems to the list.
+4)In case of a mistake on the typing the product's name this program can notify the user immediately without creating problems to the list.
 
 5)For every product that has been sold it's automatically updates the curently existed list with the new value.
